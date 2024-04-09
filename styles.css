@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+.container{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 30vh;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    padding: 20px;
+    gap: 20px;
+}
